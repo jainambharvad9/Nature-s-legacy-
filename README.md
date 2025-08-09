@@ -53,11 +53,11 @@ Natures-Legacy/
 
 Follow these steps to run the project locally.
 
-### 1️⃣ Clone the Repository
+1️⃣ Clone the Repository
 
 git clone https://github.com/jainambharvad9/Nature-s-legacy-.git
 
-<br>
+
 2️⃣ Setup the Database
 <br>
 Open phpMyAdmin.
@@ -66,6 +66,7 @@ Create a new database named natures_legacy.
 <br>
 Import the provided natures_legacy.sql file.
 <br>
+
 3️⃣ Configure the Database Connection
 
 Go to database/config.php and update with your MySQL credentials:
@@ -124,13 +125,14 @@ Browse wildlife showcase.
 <br>
 View public content.
 <br>
-📜 License
 
+📜 License
+<br>
 This project is licensed for educational purposes only.
 You may use and modify it for personal or institutional use.
 
 🤝 Contributing
-
+<br>
 Fork the repository.
 <br>
 Create your feature branch:
