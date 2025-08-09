@@ -53,12 +53,12 @@ Natures-Legacy/
 
 Follow these steps to run the project locally.
 
-1️⃣ Clone the Repository
+1️⃣ **Clone the Repository**
 
 git clone https://github.com/jainambharvad9/Nature-s-legacy-.git
 
 
-2️⃣ Setup the Database
+2️⃣ **Setup the Database**
 <br>
 Open phpMyAdmin.
 <br>
@@ -67,8 +67,8 @@ Create a new database named natures_legacy.
 Import the provided natures_legacy.sql file.
 <br>
 
-3️⃣ Configure the Database Connection
-
+3️⃣ **Configure the Database Connection**
+<br>
 Go to database/config.php and update with your MySQL credentials:
 <br>
 $host = "localhost";
@@ -90,8 +90,8 @@ if (!$conn) {
 <br>
 
 
-4️⃣ Run the Project
-
+4️⃣ **Run the Project**
+<br>
 Place the project folder inside htdocs (for XAMPP) or www (for WAMP).
 <br>
 Start Apache and MySQL from your server control panel.
@@ -99,9 +99,11 @@ Start Apache and MySQL from your server control panel.
 Open in your browser:
 <br>
 http://localhost/natures-legacy
-👥 User Roles
 
-Admin
+
+👥 **User Roles**
+<br>
+**Admin**
 <br>
 Manage wildlife species data.
 <br>
@@ -110,7 +112,7 @@ Approve/decline safari bookings.
 Manage user reviews and feedback.
 <br>
 
-Registered User
+**Registered User**
 <br>
 Book safaris.
 <br>
@@ -119,19 +121,18 @@ Submit reviews and feedback.
 Access member-exclusive features.
 <br>
 Visitor
-
-
+<br>
 Browse wildlife showcase.
 <br>
 View public content.
 <br>
 
-📜 License
+**📜 License**
 <br>
 This project is licensed for educational purposes only.
 You may use and modify it for personal or institutional use.
 
-🤝 Contributing
+**🤝 Contributing**
 <br>
 Fork the repository.
 <br>
@@ -150,8 +151,8 @@ git push origin feature/YourFeature
 <br>
 Open a Pull Request.
 
-💡 Author Jainam Saraiya
+💡 **Author** Jainam Saraiya
 <br>
-📧 Email: jainamsaraiya9@gmail.com
+📧 **Email**: jainamsaraiya9@gmail.com
 <br>
-💼 LinkedIn: [https://www.linkedin.com/in/jainam-bharvad]
+💼 **LinkedIn**: [https://www.linkedin.com/in/jainam-bharvad]
