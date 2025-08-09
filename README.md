@@ -120,7 +120,7 @@ Submit reviews and feedback.
 <br>
 Access member-exclusive features.
 <br>
-Visitor
+**Visitor**
 <br>
 Browse wildlife showcase.
 <br>
